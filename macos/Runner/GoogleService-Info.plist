@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>744308935147-js1pq8ja5ekmu3078s2a1a8j35mrgdsn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.744308935147-js1pq8ja5ekmu3078s2a1a8j35mrgdsn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByD4OBkkro8sDDit7ND3dU-33sOAPDS6c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>744308935147</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterPaypalIntegration</string>
+	<key>PROJECT_ID</key>
+	<string>braintree-payment</string>
+	<key>STORAGE_BUCKET</key>
+	<string>braintree-payment.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:744308935147:ios:8935a65b9293f814d7b1ae</string>
+</dict>
+</plist>

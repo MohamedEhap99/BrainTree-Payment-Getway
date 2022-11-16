@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744308935147",
+    "project_id": "braintree-payment",
+    "storage_bucket": "braintree-payment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744308935147:android:eb380ed9eef9ba4cd7b1ae",
+        "android_client_info": {
+          "package_name": "com.example.flutter_paypal_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744308935147-a0p708jv93tsae4hmou3t524lfpnir46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgzGTK5gzGUHqe-ysRRrcINq1CJ3MEL4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744308935147-a0p708jv93tsae4hmou3t524lfpnir46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
