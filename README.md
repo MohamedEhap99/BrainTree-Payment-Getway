@@ -1,10 +1,12 @@
-# flutter_paypal_integration
+# Flutter Braintree Payment Getway
 
-A new Flutter project.
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+## Connect This App by Firebase Services and use Cloud Functions , Write code  JavaScript
 
 A few resources to get you started if this is your first Flutter project:
 
